@@ -1,0 +1,81 @@
+body {
+    font-size: 15pt;
+    margin:10px;
+    box-shadow: 5px 10px 10px  darkgray;
+    border-radius: 10px;
+    border:1px solid black;
+}
+#header{
+  text-align: center;
+  height:100px;
+  width:100%;
+  border: 1px solid black;
+  box-shadow: 5px 10px 10px 5px darkgray;
+  border-radius: 10px;
+}
+button{
+  border:none;
+  border-radius:5px;
+  
+}
+
+.nav{
+  border: 1px solid black;
+  border-radius:5px;
+  text-align: center;
+   
+}
+#sec1{
+  height:300px;
+  width: 300px;
+  margin: 10px;
+  border-radius:10px;
+  text-align: center;
+  padding-top: 20px;
+  box-shadow: 5px 10px 10px 5px darkgray;
+}
+ 
+#sec2{
+  height:300px;
+  width: 1080px;
+  margin: 10px;
+  border-radius:10px;
+  text-align: center;
+  padding-top: 20px ;
+  box-shadow: 5px 10px 10px 5px darkgray;
+
+}
+ 
+#pre1{
+  font-family:cursor;
+} 
+.lang{
+  height:200px;
+  width: 1080px;
+  margin: 10px;
+  border-radius:10px;
+  padding-top: 20px;
+  box-shadow: 5px 5px 4px darkgray;
+  text-align: center;
+  padding: 30px;
+}
+#html_image{
+  height: 200px;
+  width: 200px;
+  padding-right: 30px;
+}
+#css_image{
+  height: 150px;
+  width : 150px;
+  padding-right: 30px;
+}
+#js_image{
+  height:150px;
+  width: 150px;
+  padding-right: 30px;
+}
+.root-code{
+  height:500px;
+  width:1080px;
+  box-shadow: 5px 5px 5px grey;
+}
